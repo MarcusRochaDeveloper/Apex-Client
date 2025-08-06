@@ -1,0 +1,17 @@
+Bem vindo ao sistema de cadastro da Apex Client, aqui você pode cadastrar novos clientes,
+editar os clientes cadastrados, excluir e até mesmo enviar uma mensagem via email ou whatsapp.
+
+-- Considerações --
+Para compilar novamente o sistema, é preciso que você tenha, em seu computador, o Visual Sudio Community
+na sua versão de 2022 ou mais.
+Recomendamos que acesse o atalho "Apex Client", ele já executará o programa diretamente, sem fazer
+recompilação.
+Todas as imagens e icons utilizadas no sistema podem ser encontradas em Cadastro_Clientes\Resources,
+caso for modificar alguma imagem, é obrigatório manter o mesmo nome da imagem antiga, caso contrário 
+alguns erros poderam aparecer.
+
+-- Finalização --
+Sistema feito pelo grupo Apex, constituido por Adam Vitor, Marcus Vinicius, Henrique Esteves e Uesile 
+Alisson.
+Nota: Esse sistema foi feito para a instituição de ensino SENAI Centro 4.0 em Minas Gerais, portanto, 
+esperamos que esse sistema esteja apenas na mão dos desenvolvedores e do(s) professor(es).
