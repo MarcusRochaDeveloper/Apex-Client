@@ -21,7 +21,7 @@
 ## 📎 Requisitos
 
 - Sistema operacional: **Windows 10 ou superior**
-- **.NET Framework 4.7.2** ou superior
+- **.NET Framework 8.0** ou superior
 - **Visual Studio 2019 ou 2022**
 
 ## 🧪 Status do Projeto
